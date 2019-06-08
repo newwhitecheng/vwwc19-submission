@@ -1,0 +1,2 @@
+Input: input
+Output: logits/activation
