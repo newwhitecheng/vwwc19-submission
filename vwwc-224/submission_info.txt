@@ -1,0 +1,3 @@
+Model: submission-uint8.lite
+Input: input
+Output: logits/activation
